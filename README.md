@@ -1,7 +1,7 @@
 
 # Enable windows hotspot when theres no Internet conection
 
-if you want to enable your windows hotspot, you need to be connected first. But with this .reg file, you can enable windows hostop at any time, even when theres no internet connection to your PC
+If you want to enable your windows hotspot, you need to be connected first. But with this .reg file, you can enable windows hotspot at any time, even when there's no internet connection to your PC
 
 ## Deployment
 
